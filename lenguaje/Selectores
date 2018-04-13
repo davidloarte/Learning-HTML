@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Selectores</title>
+	<meta charset="utf-8">
+	<meta http-equiv="default-style" type="text/CSS" href="css/estilihijo">
+	<style type="text/css">
+		p
+		{
+			margin:10px;
+			color:blue;
+			font-size: 10pt;
+		}
+		p span
+		{
+			color: red;
+			font-size: 10pt;
+		}
+		p span div
+		{
+			color:green;
+		}
+		span
+		{
+			color: yellow;
+			font-size: 14pt;
+		}
+		p span div
+	</style>
+</head>
+<body>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil molestiae repellendus aspernatur id dolore et totam beatae voluptatibus. Maxime ipsa, velit pariatur officiis dolorem illo repellat, illum quidem inventore beatae!
+	<div>
+		Hoy ya es primavera
+		<span>
+			Pero hace puto Friooooo
+		</span>
+	</div>
+</p>
+<span>Pero bueno</span>
+
+</body>
+</html>

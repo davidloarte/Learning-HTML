@@ -1,0 +1,186 @@
+.boton 
+{
+border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+padding: 10px; /*espacio alrededor texto*/
+background-color: #2e518b; /*color botón*/
+color: #ffffff; /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 50px; /*bordes redondos*/
+}
+.centrado
+{
+	text-align: center;
+}
+
+.cajaazul
+{
+background-color: #d8ecf7;
+border: 1px solid #afcde3;
+margin-top: 10pt;
+text-align: center;
+border-radius: 10px;
+	width: 40%;
+	font-size: 16pt;
+	height: 50px;
+}
+.cajaazul:hover
+{
+	background:red;
+}
+.cajaazul:active
+{
+	background:green;
+}
+.cajaazul:focus
+{
+	background-color: grey;
+}
+.cajagris
+{
+background-color: #e2e2e2;
+border: 1px solid #bdbdbd;
+margin-top: 10pt;
+text-align: center;
+border-radius: 10px;
+	width: 40%;
+	font-size: 16pt;
+	height: 50px;
+}
+.cajagris:hover
+{
+	background:red;
+}
+.cajagris:active
+{
+	background:green;
+}
+.cajagris:focus
+{
+	background-color: grey;
+}
+.cajaverde
+{
+background-color: #d9edc2;
+border: 1px solid #b2ce96;
+margin-top: 10pt;
+border-radius: 10px; 
+text-align: center;
+width: 40%;
+font-size: 16pt;
+	height: 50px;
+}
+.cajaverde:hover
+{
+	background:red;
+}
+.cajaverde:active
+{
+	background:green;
+}
+.cajaverde:focus
+{
+	background-color: grey;
+}
+.cajamorada
+{
+background-color: #e2e2f9;
+border: 1px solid #bebde9;
+margin-top: 10pt;
+text-align: center;
+border-radius: 10px;
+width: 40%;
+font-size: 16pt;
+height: 50px;
+}
+.cajamorada:hover
+{
+	background:red;
+}
+.cajamorada:active
+{
+	background:green;
+}
+.cajamorada:focus
+{
+	background-color: grey;
+}
+.cajaroja
+{
+background-color: #f9dbdb;
+border: 1px solid #e9b3b3;
+margin-top: 10pt;
+text-align: center;
+border-radius: 10px;
+	width: 40%;
+	font-size: 16pt;
+	height: 50px;
+}
+.cajaroja:hover
+{
+	background:red;
+}
+.cajaroja:active
+{
+	background:green;
+}
+.cajaroja:focus
+{
+	background-color: grey;
+}
+.cajaamarilla
+{
+background-color: #fef5c4;
+border: 1px solid #fadf98;
+margin-top: 10pt;
+text-align: center;
+border-radius: 10px;
+	width: 40%;
+	font-size: 16pt;
+	height: 50px;
+}
+.cajaamarilla:hover
+{
+	background:red;
+}
+.cajaamarilla:active
+{
+	background:green;
+}
+.cajaamarilla:focus
+{
+	background-color: grey;
+}
+.imagenes
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+	display: inline-block;
+	width: 33%;
+	height: auto;
+}
+.imagenes:hover
+{
+	transform: scale(2);
+}
+.imgResize
+{
+	width: 33%;
+	text-align: center;
+	border-radius: 10px;
+}
+.cajaImg
+{
+	background-color: blue;
+	margin-top: 50px;
+}
+.ask
+{
+	text-align: center;
+	font-style: helvetica;
+	margin-top: 50px;
+	margin-bottom: 10px;
+
+}
